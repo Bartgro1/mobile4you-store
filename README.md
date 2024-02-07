@@ -24,4 +24,3 @@
         In het bestand index.php schrijf je code om een de database connectie te importeren.
         Maak een iteratie met een foreach loop om zo de gegevens in de browser te tonen.
         Laat het resultaat aan de docent zien.
-
